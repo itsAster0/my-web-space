@@ -30,7 +30,7 @@
 	});
 </script>
 <svelte:head>
-	<title>Blogs | Kryxen.dev</title>
+	<title>Blogs | Aster0.dev</title>
 </svelte:head>
 
 
@@ -42,7 +42,7 @@
 					href="/"
 					class="henny-penny-regular block text-center text-5xl decoration-primary  leading-none hover:underline  md:text-left"
 				>
-					kryxen.dev
+					Aster0.dev
 				</a>
 
 				<div class="mt-5 flex justify-center md:justify-start">

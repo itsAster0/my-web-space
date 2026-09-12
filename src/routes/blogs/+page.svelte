@@ -7,7 +7,7 @@
 
 <section class="prose prose-invert">
   <h3 class="font-bold -mb-2 henny-penny-regular">
-    Hello, I'm <span class="font-bold">Kryxen</span>
+    Hello, I'm <span class="font-bold">Aster0</span>
   </h3>
   <p class="text-fg/60">
     A CS student building weird web, systems, and random experiments.

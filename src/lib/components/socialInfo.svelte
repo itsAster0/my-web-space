@@ -15,7 +15,7 @@
 	const socials: Social[] = [
 		{
 			name: 'github',
-			href: 'https://github.com/itsKryxen',
+			href: 'https://github.com/itsAster0',
 			label: 'GitHub',
 			viewBox: '0 0 24 24',
 			fill: 'currentColor',
@@ -23,7 +23,7 @@
 		},
 		{
 			name: 'bluesky',
-			href: 'https://bsky.app/profile/kryxen.dev',
+			href: 'https://bsky.app/profile/aster0.dev',
 			label: 'Bluesky',
 			viewBox: '0 0 24 24',
 			fill: 'currentColor',
@@ -31,7 +31,7 @@
 		},
 		{
 			name: 'twitter',
-			href: 'https://x.com/itsKryxen',
+			href: 'https://x.com/itsAster0',
 			label: 'X / Twitter',
 			viewBox: '0 0 24 24',
 			fill: 'currentColor',
@@ -39,7 +39,7 @@
 		},
 		{
 			name: 'instagram',
-			href: 'https://www.instagram.com/itskryxen',
+			href: 'https://www.instagram.com/itsaster0',
 			label: 'Instagram',
 			viewBox: '0 0 24 24',
 			fill: 'currentColor',
@@ -68,7 +68,7 @@
 		</a>
 	{/each}
 
-	<a href="mailto:kryxen.dev@gmail.com" aria-label="Email" class={linkClass}>
+	<a href="mailto:aster@aster0.dev" aria-label="Email" class={linkClass}>
 		<svg class={iconClass} viewBox="0 0 24 24" fill="none" aria-hidden="true">
 			<path
 				d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2Z"
