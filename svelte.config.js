@@ -1,5 +1,5 @@
 import { mdsvex } from "mdsvex";
-import adapter from "svelte-adapter-bun";
+import adapter from "@sveltejs/adapter-static";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -8,7 +8,7 @@ const config = {
     runes: ({ filename }) =>
       filename.split(/[/\\]/).includes("node_modules") ? undefined : true,
   },
-  kit: { adapter: adapter() },
+  kit: { adapter: adapter({ fallback: "404.html" }) },
   preprocess: [mdsvex({ extensions: [".svx", ".md"] })],
   extensions: [".svelte", ".svx", ".md"],
 };
